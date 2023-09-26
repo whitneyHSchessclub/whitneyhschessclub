@@ -61,7 +61,7 @@ Director of Activities : Darsh Maheshwari
 Director of Publicity : Rondo Tran
 <br>
 Service Coordinators : Benjamin Tang & Samanyu Suryavanshi
-
+<br>
 Special Interest Club
 
 </p>
