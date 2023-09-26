@@ -26,7 +26,6 @@
 <p> Chess club hosts their meetings in the <strong>Mac A</strong> during <strong>lunch every Tuesdays!</strong></p>
 <p> For every tuesday of the month, chess club has different meetings each week! For every first & third meeting of the month, chess club hosts casual meetings where participants can play chess amongst one another! For every second meeting of the month, chess club hosts <strong>general meetings</strong> where we will be going over what chess club has planned in the future, and for the fourth meeting of the month chess club hosts <strong>activity meetings</strong> where students can come learn more tactics of chess to win more future games!</p>
 
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 
 <h6> Know what to expect! (month of October, 2023) <h6> 
 <table>
