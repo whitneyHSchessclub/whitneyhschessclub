@@ -45,10 +45,15 @@ Instagram: whitney.chessclub
 
 <h6>2023-2024 Term</h6>
 President(s): Evan Wang & William Jung
+<br>
 Secretary : Ocean Cheng
+<br>
 Treasurer : Peenan Kark
+<br>
 Director of Activities : Darsh Maheshwari
+<br>
 Director of Publicity : Rondo Tran
+<br>
 Service Coordinators : Benjamin Tang & Samanyu Suryavanshi
 
 Special Interest Club
