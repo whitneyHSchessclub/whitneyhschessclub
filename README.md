@@ -5,7 +5,7 @@
 <p> Chess is a beautiful game with thousands of strategies, openings, and variations. Chess was originated from India in 650 AD known as Chaturanga, where it expanded across the west and adapted known as Chess, and towards the east it took a different turn where in the east the game adapted into Xianqi & Shogi. </p>
 
 ![Chess Board](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png)
-![Chaturanga](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpKbzgTw.png)https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpKbzgTw.png)
+![Chaturanga](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpKbzgTw.png)
 
 <p> Here in Whitney, we have a chess club that teaches and brings fun to the campus through our <strong>lessons</strong>, <strong>tournaments</strong>, and <strong>freeplay!</strong> </p>
 <br>
