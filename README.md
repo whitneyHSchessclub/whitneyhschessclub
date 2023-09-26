@@ -5,15 +5,12 @@
 <p> Chess is a beautiful game with thousands of strategies, openings, and variations. Chess was originated from India in 650 AD known as Chaturanga, where it expanded across the west and adapted known as Chess, and towards the east it took a different turn where in the east the game adapted into Xianqi & Shogi. </p>
 
 <p> A digital chess board.</p>
-https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png
-
-<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png" width="140" height="140"/>
-
-
+<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png" width="250" height="250"/>
 <br>
 <br>
 <p> A common opening in chess, the <em>Italian Opening</em></p>
-![The Italian Opening](https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png)
+<img src="https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png" width="250" height="250"/>
+
 
 <br>
 <br>
