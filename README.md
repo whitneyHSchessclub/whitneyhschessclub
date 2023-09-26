@@ -7,9 +7,11 @@
 ![Chess Board](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png)
 ![Chaturanga](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpKbzgTw.png)
 
+<br>
+<br>
 <p> Here in Whitney, we have a chess club that teaches and brings fun to the campus through our <strong>lessons</strong>, <strong>tournaments</strong>, and <strong>freeplay!</strong> </p>
 <br>
-<h3> Activities <h3> 
+<h3> Activities </h3> 
 <p> Here in chess club, volunteers may sign up for our program at Whitman Elementary where volunteers assist groups of elementary students throughout the rigid and course strategies through chess! We as well offer a program where volunteers may volunteer at senior centers to play chess against the senior citizens to keep them entertained & joyous!</p>
 <br>
 <p> Chess club hosts quarterly tournaments both intra-district & outra-district! Particpants find against other schools competing for checkmate!</p>
@@ -22,9 +24,9 @@
 <h6> Know what to expect! (month of October, 2023) <h6> 
 <table>
 <tbody><tr>
-<th> General Meetings </th>
-<th> Activity Meetings </th>
-<th> Casual Meetings  </th>
+<th> General Meetings (10/10) </th>
+<th> Activity Meetings (10/24) </th>
+<th> Casual Meetings  (10/3, 10/17)</th>
 </tr>
 <tr>
 <th> Learn about what we have planned in the future for tournaments & volunteering! </th>
@@ -41,7 +43,13 @@ Email: whs_chessclub@myabcusd.org
 
 Instagram: whitney.chessclub
 
+<h6>2023-2024 Term</h6>
 President(s): Evan Wang & William Jung
+Secretary : Ocean Cheng
+Treasurer : Peenan Kark
+Director of Activities : Darsh Maheshwari
+Director of Publicity : Rondo Tran
+Service Coordinators : Benjamin Tang & Samanyu Suryavanshi
 
 Special Interest Club
 
