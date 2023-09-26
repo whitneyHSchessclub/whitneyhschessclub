@@ -7,6 +7,7 @@
 <p> A digital chess board.</p>
 ![A digital chess board](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png)
 <br>
+<br>
 <p> A common opening in chess, the <em>Italian Opening</em></p>
 ![The Italian Opening](https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png)
 
