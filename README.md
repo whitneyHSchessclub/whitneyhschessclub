@@ -46,6 +46,7 @@ Advisor:  Mr. Marchant
 
 Email: whs_chessclub@myabcusd.org
 
+<a href="https://www.instagram.com/whitney.chessclub/" target="Instragram"></a>
 Instagram: whitney.chessclub
 <h6>2023-2024 Term</h6>
 President(s): Evan Wang & William Jung
