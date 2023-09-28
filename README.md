@@ -2,13 +2,14 @@
   <h3> First, let us begin with <strong> WHAT </strong> chess is. </h3>
 <p> Chess is a beautiful game with thousands of strategies, openings, and variations. Chess was originated from India in 650 AD known as Chaturanga, where it expanded across the west and adapted known as Chess, and towards the east it took a different turn where in the east the game adapted into Xianqi & Shogi. </p>
 
+
 <p> A digital chess board.</p>
 <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png" width="250" height="250"/>
 <br>
 <br>
 <p> A common opening in chess, the <em>Italian Opening</em></p>
 <img src="https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png" width="250" height="250"/>
-
+<p> Images made with</p> <a href="https://www.chess.com/" target="_blank>Lichess</a>
 
 <br>
 <br>
@@ -45,8 +46,6 @@
 Advisor:  Mr. Marchant
 
 Email: whs_chessclub@myabcusd.org
-
-<a href="https://www.instagram.com/whitney.chessclub/" target="_blank">Instagram</a>
 
 Instagram: whitney.chessclub
 <h6>2023-2024 Term</h6>
