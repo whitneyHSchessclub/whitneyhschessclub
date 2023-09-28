@@ -13,6 +13,7 @@
 <p> Images made with</p> <a href="https://www.chess.com/" target="_blank>Chess.com</a>
                           
 <br>
+<h3> What we do </h3>
 <p> Here in Whitney, we have a chess club that teaches and brings fun to the campus through our <strong>lessons</strong>, <strong>tournaments</strong>, and <strong>freeplay!</strong> </p>
 <br>
 <h3> Activities </h3> 
