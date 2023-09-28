@@ -11,8 +11,7 @@
 <img src="https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png" width="250" height="250"/>
 <br>
 <p> Images made with</p> <a href="https://www.chess.com/" target="_blank>Chess.com</a>
-
-<br>
+                          
 <br>
 <p> Here in Whitney, we have a chess club that teaches and brings fun to the campus through our <strong>lessons</strong>, <strong>tournaments</strong>, and <strong>freeplay!</strong> </p>
 <br>
