@@ -9,7 +9,8 @@
 <br>
 <p> A common opening in chess, the <em>Italian Opening</em></p>
 <img src="https://sites.psu.edu/chessopeningsforbeginners/files/2018/04/Italian-4-1qk93p4.png" width="250" height="250"/>
-<p> Images made with</p> <a href="https://www.chess.com/" target="_blank>Lichess</a>
+<br>
+<p> Images made with</p> <a href="https://www.chess.com/" target="_blank>Chess</a>
 
 <br>
 <br>
